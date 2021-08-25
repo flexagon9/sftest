@@ -166,7 +166,7 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
-    <description>Flex User for UI.Updated on 04 November 2020.</description>
+    <description>Flex User for UI. Updated on 8th Aug 2021.</description>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.AccountNumber</field>
