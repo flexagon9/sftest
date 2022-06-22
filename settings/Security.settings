@@ -192,6 +192,11 @@
             <start>27.116.20.45</start>
         </ipRanges>
         <ipRanges>
+            <description>utlwt01 june 22</description>
+            <end>20.46.248.26</end>
+            <start>20.46.248.26</start>
+        </ipRanges>
+        <ipRanges>
             <end>18.211.105.61</end>
             <start>18.211.105.61</start>
         </ipRanges>
