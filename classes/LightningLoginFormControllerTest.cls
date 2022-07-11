@@ -27,4 +27,14 @@ public with sharing class LightningLoginFormControllerTest {
   Auth.AuthConfiguration authConfig = LightningLoginFormController.getAuthConfig();
   System.assertNotEquals(null, authConfig);
  }
+
+ @IsTest
+ static void testLogin() {
+  System.assertEquals(null, LightningLoginFormController.login('username', 'password', 'startUrl'));
+ }
+    
+ @IsTest
+ static void testSetExpId() {
+  System.assertEquals(null, LightningLoginFormController.setExperienceId('username'));
+ }
 }
