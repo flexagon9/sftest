@@ -16669,6 +16669,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>TestDemoClass1Test</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>TestDemoClass2</apexClass>
         <enabled>false</enabled>
     </classAccesses>
