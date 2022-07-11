@@ -32,9 +32,4 @@ public with sharing class LightningLoginFormControllerTest {
  static void testLogin() {
   System.assertEquals(null, LightningLoginFormController.login('username', 'password', 'startUrl'));
  }
-    
- @IsTest
- static void testSetExpId() {
-  System.assertEquals(null, LightningLoginFormController.setExperienceId('username'));
- }
 }

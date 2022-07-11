@@ -21,6 +21,5 @@ public with sharing class LightningForgotPasswordControllerTest {
  static void LightningForgotPasswordControllerInstantiation() {
   LightningForgotPasswordController controller = new LightningForgotPasswordController();
   System.assertNotEquals(controller, null);
-  System.assertEquals(LightningForgotPasswordController.setExperienceId(null), null);
  }
 }
