@@ -4,7 +4,6 @@
     <description>test</description>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Trailblazer</label>
     <tabs>standard-Chatter</tabs>
     <tabs>standard-File</tabs>

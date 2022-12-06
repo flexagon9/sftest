@@ -24,7 +24,6 @@
                     <value>3</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
-                <identifier>force_highlightsPanel1</identifier>
             </componentInstance>
         </itemInstances>
         <name>header</name>
@@ -42,7 +41,6 @@
                     <value>&lt;p&gt;hi&lt;/p&gt;</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:richText</componentName>
-                <identifier>flexipage_richText1</identifier>
             </componentInstance>
         </itemInstances>
         <name>leftsidebar</name>
@@ -52,7 +50,6 @@
         <itemInstances>
             <componentInstance>
                 <componentName>force:detailPanel</componentName>
-                <identifier>force_detailPanel1</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>
@@ -74,7 +71,6 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListContainer</componentName>
-                <identifier>force_relatedListContainer1</identifier>
             </componentInstance>
         </itemInstances>
         <name>rightsidebar</name>
