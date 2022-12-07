@@ -8,6 +8,18 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
+                <componentName>ImageClassifier</componentName>
+                <visibilityRule>
+                    <criteria>
+                        <leftValue>{!$User.IsActive}</leftValue>
+                        <operator>EQUAL</operator>
+                        <rightValue>true</rightValue>
+                    </criteria>
+                </visibilityRule>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
                 <componentName>PropertyTopLeads</componentName>
             </componentInstance>
         </itemInstances>

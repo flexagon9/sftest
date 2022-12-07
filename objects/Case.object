@@ -537,6 +537,8 @@
         <searchResultsAdditionalFields>CASES.STATUS</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CASES.CREATED_DATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CASES.TYPE</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>CASES.ORIGIN</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWriteTransfer</sharingModel>
     <webLinks>

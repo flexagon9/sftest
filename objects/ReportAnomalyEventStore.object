@@ -80,6 +80,8 @@
     </fields>
     <fields>
         <fullName>Report</fullName>
+        <businessStatus>Active</businessStatus>
+        <description>Report</description>
     </fields>
     <fields>
         <fullName>Score</fullName>
