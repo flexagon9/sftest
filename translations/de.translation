@@ -121,6 +121,33 @@
         <name>Waypoint</name>
     </quickActions>
     <reportTypes>
+        <description><!-- Bot Metrics Daily Winter &apos;23 --></description>
+        <label><!-- Bot Metrics Daily Winter &apos;23 --></label>
+        <name>Bot_Metrics_Daily_v3</name>
+        <sections>
+            <label><!-- Conversation Definition Dialog Daily Metrics --></label>
+            <name>Conversation Definition Dialog Daily Metrics</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Bot Metrics Hourly Winter &apos;23 --></description>
+        <label><!-- Bot Metrics Hourly Winter &apos;23 --></label>
+        <name>Bot_Metrics_Hourly_v3</name>
+        <sections>
+            <label><!-- Conversation Definition Dialog Hourly Metrics --></label>
+            <name>Conversation Definition Dialog Hourly Metrics</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Session Metrics Winter &apos;23 --></description>
+        <label><!-- Session Metrics Winter &apos;23 --></label>
+        <name>Bot_Sessions_v3</name>
+        <sections>
+            <label><!-- Conversation Definition Session Metrics --></label>
+            <name>Conversation Definition Session Metrics</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
         <description><!-- Screen Flows --></description>
         <label><!-- Screen Flows --></label>
         <name>screen_flows_prebuilt_crt</name>

@@ -260,6 +260,14 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>FD_Sequence__c</fullName>
+        <displayFormat>FD-{0000}</displayFormat>
+        <externalId>false</externalId>
+        <label>FD_Sequence</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>IqScore</fullName>
         <trackTrending>false</trackTrending>
     </fields>
