@@ -284,6 +284,7 @@
     </fields>
     <fields>
         <fullName>Active__c</fullName>
+        <description>test description</description>
         <externalId>false</externalId>
         <label>Active</label>
         <required>false</required>
@@ -520,7 +521,6 @@
     </fields>
     <fields>
         <fullName>UpsellOpportunity__c</fullName>
-        <description>Deiiii</description>
         <externalId>false</externalId>
         <label>Upsell Opportunity</label>
         <required>false</required>
