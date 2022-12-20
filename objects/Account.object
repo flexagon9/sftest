@@ -428,6 +428,16 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>SampleExternalId__c</fullName>
+        <externalId>true</externalId>
+        <label>SampleExternalId</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ShippingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
