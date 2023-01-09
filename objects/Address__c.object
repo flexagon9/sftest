@@ -153,6 +153,16 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>custom_object_test__c</fullName>
+        <externalId>false</externalId>
+        <label>custom_object_test</label>
+        <length>20</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Address</label>
     <nameField>
         <label>Address Name</label>
