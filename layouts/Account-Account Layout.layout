@@ -45,6 +45,14 @@
                 <behavior>Edit</behavior>
                 <field>SampleExternalId__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>ExternalIdExternalId__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Custom_Field_Test__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

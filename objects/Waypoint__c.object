@@ -153,6 +153,18 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Test_Custom_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Test_Custom_Field</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
     <label>Waypoint</label>
     <listViews>
         <fullName>All</fullName>

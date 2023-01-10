@@ -777,6 +777,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Custom_Field_Test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Account.CustomerPriority__c</field>
         <readable>false</readable>
@@ -795,6 +800,11 @@
         <editable>false</editable>
         <field>Account.DunsNumber</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.ExternalIdExternalId__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -920,6 +930,11 @@
         <editable>false</editable>
         <field>Account.YearStarted</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Address__c.custom_object_test2__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -1190,6 +1205,11 @@
         <editable>false</editable>
         <field>Broker__c.Title__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Broker__c.custom_Field__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -2975,6 +2995,11 @@
         <editable>false</editable>
         <field>Task.WhoId</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Waypoint__c.Test_Custom_Field__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <flowAccesses>
         <enabled>false</enabled>

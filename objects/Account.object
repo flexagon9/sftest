@@ -272,6 +272,14 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Custom_Field_Test__c</fullName>
+        <defaultValue>true</defaultValue>
+        <externalId>false</externalId>
+        <label>Custom_Field_Test</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>CustomerPriority__c</fullName>
         <externalId>false</externalId>
         <label>Customer Priority</label>
@@ -311,6 +319,17 @@
     <fields>
         <fullName>DunsNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>ExternalIdExternalId__c</fullName>
+        <externalId>true</externalId>
+        <label>ExternalId</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Fax</fullName>
