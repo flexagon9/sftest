@@ -9,12 +9,13 @@
         <value>Addresses</value>
     </caseValues>
     <fields>
-        <label><!-- custom_object_test2 --></label>
-        <name>custom_object_test2__c</name>
+        <label><!-- Custom_Field_Testing --></label>
+        <name>Custom_Field_Testing__c</name>
     </fields>
     <fields>
-        <label><!-- custom_object_test --></label>
-        <name>custom_object_test__c</name>
+        <help><!-- Testing custom field --></help>
+        <label><!-- Test_Custom_Field1 --></label>
+        <name>Test_Custom_Field1__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

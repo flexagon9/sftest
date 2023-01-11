@@ -745,6 +745,10 @@
         <apexClass>TestingClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>classDependency</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>false</editable>
@@ -933,12 +937,17 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Address__c.custom_object_test2__c</field>
+        <field>Account.sample_Cust_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Address__c.custom_object_test__c</field>
+        <field>Address__c.Custom_Field_Testing__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Address__c.Test_Custom_Field1__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

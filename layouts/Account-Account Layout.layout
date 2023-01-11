@@ -53,6 +53,10 @@
                 <behavior>Edit</behavior>
                 <field>Custom_Field_Test__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>sample_Cust_Field__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

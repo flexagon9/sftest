@@ -154,19 +154,22 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>custom_object_test2__c</fullName>
+        <fullName>Custom_Field_Testing__c</fullName>
         <externalId>false</externalId>
-        <label>custom_object_test2</label>
-        <length>20</length>
+        <label>Custom_Field_Testing</label>
+        <precision>18</precision>
         <required>false</required>
+        <scale>0</scale>
         <trackTrending>false</trackTrending>
-        <type>Text</type>
+        <type>Number</type>
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>custom_object_test__c</fullName>
+        <fullName>Test_Custom_Field1__c</fullName>
+        <businessStatus>Active</businessStatus>
         <externalId>false</externalId>
-        <label>custom_object_test</label>
+        <inlineHelpText>Testing custom field</inlineHelpText>
+        <label>Test_Custom_Field1</label>
         <length>20</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
