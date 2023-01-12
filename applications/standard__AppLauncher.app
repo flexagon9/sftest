@@ -5,4 +5,6 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <tabs>standard-AppLauncher</tabs>
+    <tabs>Sample1__c</tabs>
+    <tabs>Sample2__c</tabs>
 </CustomApplication>

@@ -22491,6 +22491,26 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Sample1__c.Sample_ExternalId1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Sample1__c.Sample_text1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Sample2__c.Sample_ExternalId2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Sample2__c.Sample_Text2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Sample_Custom_MDT__mdt.Test_Field__c</field>
         <readable>false</readable>
@@ -22816,6 +22836,12 @@
         <layout>RefundLinePayment-Refund Line Payment Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Sample1__c-Sample1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Sample2__c-Sample2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Sample_Custom_MDT__mdt-Sample Custom MDT Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -22990,6 +23016,14 @@
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Broker__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Sample1__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Sample2__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>

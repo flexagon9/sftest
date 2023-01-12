@@ -11,4 +11,6 @@
     <tabs>standard-Solution</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Sample1__c</tabs>
+    <tabs>Sample2__c</tabs>
 </CustomApplication>
