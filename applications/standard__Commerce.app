@@ -11,8 +11,16 @@
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Order</tabs>
+    <tabs>Sample1__c</tabs>
+    <tabs>Sample2__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>Sample1__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Sample2__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

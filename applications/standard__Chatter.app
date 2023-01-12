@@ -9,4 +9,6 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
+    <tabs>Sample1__c</tabs>
+    <tabs>Sample2__c</tabs>
 </CustomApplication>

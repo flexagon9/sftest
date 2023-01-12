@@ -24,5 +24,7 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-News</tabs>
     <tabs>standard-Forecasting3</tabs>
+    <tabs>Sample1__c</tabs>
+    <tabs>Sample2__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

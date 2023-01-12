@@ -179,7 +179,15 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>Sample1__c</tabs>
+    <tabs>Sample2__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Sample1__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Sample2__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
