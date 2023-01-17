@@ -19,6 +19,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Agile Accelerator</label>
     <navType>Standard</navType>
     <tabs>agf__ADM_Work__c</tabs>

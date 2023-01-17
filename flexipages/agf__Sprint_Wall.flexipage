@@ -4,6 +4,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>agf:ADM_Sprint_VirtualWall</componentName>
+                <identifier>ADM_Sprint_VirtualWall</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

@@ -4,11 +4,13 @@
         <itemInstances>
             <componentInstance>
                 <componentName>PropertyListDaysOnMarketChart</componentName>
+                <identifier>PropertyListDaysOnMarketChart</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>ImageClassifier</componentName>
+                <identifier>c_ImageClassifier</identifier>
                 <visibilityRule>
                     <criteria>
                         <leftValue>{!$User.IsActive}</leftValue>
@@ -21,6 +23,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>PropertyTopLeads</componentName>
+                <identifier>PropertyTopLeads</identifier>
             </componentInstance>
         </itemInstances>
         <name>region1</name>
@@ -30,11 +33,13 @@
         <itemInstances>
             <componentInstance>
                 <componentName>PropertySummary</componentName>
+                <identifier>PropertySummary</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>SmartPriceCalculator</componentName>
+                <identifier>SmartPriceCalculator</identifier>
             </componentInstance>
         </itemInstances>
         <name>region2</name>
@@ -44,6 +49,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>DaysOnMarketEstimator</componentName>
+                <identifier>DaysOnMarketEstimator</identifier>
             </componentInstance>
         </itemInstances>
         <name>region3</name>

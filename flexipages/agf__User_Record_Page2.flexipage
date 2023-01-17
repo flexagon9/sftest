@@ -20,6 +20,7 @@
                     <value>3</value>
                 </componentInstanceProperties>
                 <componentName>force:highlightsPanel</componentName>
+                <identifier>force_highlightsPanel</identifier>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
@@ -30,6 +31,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>force:detailPanel</componentName>
+                <identifier>force_detailPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-f0b83a18-6bc8-4b2b-8491-00c4574b9384</name>
@@ -39,6 +41,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>agf:ADM_UserProductTag</componentName>
+                <identifier>agf_ADM_UserProductTag</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-c2e5f812-b533-465b-9a20-948ae9e45099</name>
@@ -56,6 +59,7 @@
                     <value>Standard.Tab.detail</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
+                <identifier>detailTab</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -73,6 +77,7 @@
                     <value>Settings</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
+                <identifier>customTab</identifier>
             </componentInstance>
         </itemInstances>
         <name>Facet-86052ea1-109e-4143-9bfe-30f4778b7915</name>
@@ -86,11 +91,13 @@
                     <value>Facet-86052ea1-109e-4143-9bfe-30f4778b7915</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tabset</componentName>
+                <identifier>flexipage_tabset</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentName>forceChatter:recordFeedContainer</componentName>
+                <identifier>forceChatter_recordFeedContainer</identifier>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
@@ -101,6 +108,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>agf:ADM_Profile_TeamList</componentName>
+                <identifier>agf_ADM_Profile_TeamList</identifier>
             </componentInstance>
         </itemInstances>
         <itemInstances>
@@ -118,6 +126,7 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListContainer</componentName>
+                <identifier>force_relatedListContainer</identifier>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
