@@ -23,4 +23,6 @@
     <tabs>agf__PPM_Project__c</tabs>
     <tabs>agf__PPM_Program__c</tabs>
     <tabs>agf__PPM_Portfolio__c</tabs>
+    <tabs>Sample1__c</tabs>
+    <tabs>Sample2__c</tabs>
 </CustomApplication>

@@ -15652,10 +15652,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
-        <tab>Broker__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>Dashboard</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
@@ -15676,10 +15672,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>Property__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>Sample1__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
@@ -15693,10 +15685,6 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Testing</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>Waypoint__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>

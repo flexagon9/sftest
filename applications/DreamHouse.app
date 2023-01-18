@@ -14,8 +14,6 @@
     <label>DreamHouse</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
-    <tabs>Property__c</tabs>
-    <tabs>Broker__c</tabs>
     <tabs>Property_Explorer1</tabs>
     <tabs>Dashboard</tabs>
     <tabs>Heat_Map_Mock</tabs>

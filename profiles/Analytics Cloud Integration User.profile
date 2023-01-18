@@ -15398,10 +15398,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
-        <tab>Broker__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>Dashboard</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
@@ -15422,10 +15418,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>Property__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>Sample1__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
@@ -15440,10 +15432,6 @@
     <tabVisibilities>
         <tab>Testing</tab>
         <visibility>DefaultOff</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>Waypoint__c</tab>
-        <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>agf__ADM_Acceptance_Criterion__c</tab>
