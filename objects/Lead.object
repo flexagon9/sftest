@@ -307,6 +307,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>ExternalID_Lead__c</fullName>
+        <externalId>true</externalId>
+        <label>ExternalID_Lead</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>FD_UCID__c</fullName>
         <description>FD&apos;s unique ID for a given person&apos;s record in their source data</description>
         <externalId>false</externalId>

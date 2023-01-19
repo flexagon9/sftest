@@ -8,4 +8,6 @@
     <tabs>standard-AppLauncher</tabs>
     <tabs>Sample1__c</tabs>
     <tabs>Sample2__c</tabs>
+    <tabs>Bank_Branch__c</tabs>
+    <tabs>Customer__c</tabs>
 </CustomApplication>
