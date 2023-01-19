@@ -20662,6 +20662,26 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Bank_Branch__c.Address__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Bank_Branch__c.Bank_ExternalId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Bank_Branch__c.Code__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Bank_Branch__c.Phone_No__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Broker__c.Email__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -22757,6 +22777,9 @@
         <layout>AssociatedLocation-Associated Location Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Bank_Branch__c-Bank Branch Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Broker__c-Broker Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -22821,6 +22844,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Customer-Customer Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Customer__c-Customer Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>DandBCompany-D%26B Company Layout</layout>
@@ -23284,8 +23310,16 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
+        <tab>Bank_Branch__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Broker__c</tab>
         <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Customer__c</tab>
+        <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>Sample1__c</tab>
