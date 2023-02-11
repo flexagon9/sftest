@@ -172,10 +172,6 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>IsThirdPartyAddress</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
